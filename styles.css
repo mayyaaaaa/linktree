@@ -7,11 +7,11 @@ img {
 body {
     background-color: mediumslateblue;
     font-family:'trebuchet MS';
-    color: antiquewhite;
+    color: rgb(247, 239, 231);
     text-align: center;
 }
 
-a{background-color: antiquewhite;
+a{background-color: rgb(231, 225, 217);
     font-size: 20px;
     border-radius: 10px;
     padding: 10px;
@@ -19,4 +19,12 @@ a{background-color: antiquewhite;
     text-align: center;
     margin: 10px;
     color: gray;
+text-decoration: none;
+    
 }
+
+button:hover {
+    background-color: violet;
+}
+
+
